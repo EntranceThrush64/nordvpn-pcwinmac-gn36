@@ -1,4 +1,4 @@
-# 
+# Smart NordVPN templates for Mac OS | New NordVPN templates for PC Windows. Featuring application control and vulnerability assessment — optimized for maximum performance on every platform.
 
 
 
